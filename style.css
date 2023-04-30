@@ -1,0 +1,37 @@
+.bg-personalized{
+  background-image: linear-gradient(to right, #e21010, #a21b1b, #7c2323);
+}
+
+/* carousel */
+
+.carousel-item img{
+  height: 500px;
+}
+
+/* personagens */
+
+h2{
+  text-align: center;
+  margin: 40px;
+}
+
+.card img{
+  height: 300px;
+}
+
+.card{
+  margin-bottom: 15px;
+}
+
+/* rodapé */
+
+#footer{
+  background-image: linear-gradient(to right, #e21010, #a21b1b, #7c2323);
+  height: 150px;
+  margin-top: 200px;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
